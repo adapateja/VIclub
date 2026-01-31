@@ -32,14 +32,5 @@ I put neccesary comment in all files you can understand easily
 
 > npm i in client folder and then npm start 🙋
 
-> npm i in server folder and then nodmeon index.js ✌️
+> npm i in server folder and then node index.js ✌️
 
-## Mongo Schema Design
-
-I add picutes of schmea in public folder you can check it from backend folder also
-
-Thnx ! Don't Forget To Give Thumbsum
-
-I haven't Add Security maybe i will add in future or you can fork this project abd add ✌️✌️✌️
-
-&copy;ravisharma7818
